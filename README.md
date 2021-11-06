@@ -10,6 +10,6 @@ copy them in the 'credidentials.json' file. Make sure you make another Reddit ac
 
 
 # Clone the repositiry
-To run the repository, run the command below:
+To run the repository, run the command:
 ```git clone https://github.com/comby-cmyk/RedditDownloadBot```
 
