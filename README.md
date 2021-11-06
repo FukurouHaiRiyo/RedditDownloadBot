@@ -13,3 +13,5 @@ copy them in the 'credidentials.json' file. Make sure you make another Reddit ac
 To run the repository, run the command:
 ```git clone https://github.com/comby-cmyk/RedditDownloadBot```
 
+
+
