@@ -9,6 +9,7 @@ prefference.
 copy them in the 'credidentials.json' file. Make sure you make another Reddit account and use that account to test this program, because your main account might be banned.
 
 
-~~~Clone the repositiry~~~
+# Clone the repositiry
+To run the repository, run the command below:
 ```git clone https://github.com/comby-cmyk/RedditDownloadBot```
 
